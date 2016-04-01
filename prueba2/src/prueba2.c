@@ -9,4 +9,5 @@ int main(void) {
 		printf("el numero es: %d",i);
 	}
 	return EXIT_SUCCESS;
+	aca se rompe todo
 }
